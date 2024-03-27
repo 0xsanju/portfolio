@@ -1,9 +1,9 @@
-# Application Security Engineer
+# Bug Bounty Hunter & Application Security Engineer
 
-#### Technical Skills: Website Penetration Testing , API Security , Python , Networking
+#### Technical Skills: Website Penetration Testing , OWASP , Python , Networking , API Security 
 
 ## Education
-- Bachelor of Technology(IT) with 8.5 CGPA | IFETCE (_April 2024_)								       
+  - Bachelor of Technology(IT) with 8.5 CGPA | IFETCE (_April 2024_)								       
 
 ## Experience
 **Bug Hunter / Application Security Engineer @ Freelancer (_June 2022 - Present_)**
@@ -14,16 +14,22 @@
 - Worked with the Bentley Systems Security Engineer Team to improve their web security. 
 
 **CTF Player (_December 2023 - Present_)**
-- Participated in the TCS HackQuest Season 8 and Solved the 5 challenges out of 10.
-- Played Many CTFs which was organized by the CTFtime
+- Participated in TCS HackQuest Season 8 and solved 5 out of 10 challenges.
+- Participated in various CTFs such as SkahtiCTF, KnightCTF, etc.
+
+## Achievements : Hall of Fames & Bounties Snaps
+- Authentication Bypass on Google Subdomain and Got Honourable Mention.
+![Bike Study](/assets/img/G1.jpg)
+![Bike Study](/assets/img/G2.jpeg)
+
 
 ## Projects
-### Detection of Deceptive News on Social Media Using Ensembling :
+**Detection of Deceptive News on Social Media Using Ensembling** 
 
 This Project aims to develop and implement a voting ensembling model for sentiment and emotional analysis of text to predict the deceptive information on social media.
 
 
-### Keylogger using Python :
+**Keylogger using Python :**
 
 A Computer Security tool coded in Python that captures the keystrokes made by a victim and sends those strokes to the attacker.
 
