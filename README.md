@@ -15,7 +15,7 @@
 
 **CTF Player (_December 2023 - Present_)**
 - Participated in TCS HackQuest Season 8 and solved 5 out of 10 challenges.
-- Skilled in Web Exploitation and Forensics then Participated in various CTFs such as SkahtiCTF, KnightCTF, etc.
+- Skilled in web exploitation and forensics, I have participated in various CTFs such as ShaktiCTF, KnightCTF, and others
 
 ## Achievements : Hall of Fames & Bounties Snaps
 - Authentication Bypass on Google Subdomain and Got Honourable Mention.
