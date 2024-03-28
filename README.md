@@ -1,5 +1,9 @@
 # Bug Bounty Hunter & Application Security Engineer
 
+[![Email](https://img.shields.io/badge/Email-sanjaiv80@gmail.com-blue)](mailto:{{sanjaiv80@gmail.com}})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayVenktesan-blue)]({{https://www.linkedin.com/in/sanjay-venkatesan-5a478220b/}})
+[![Medium](https://img.shields.io/badge/Medium-Sanju1-blue)]({{https://sanju1.medium.com}})
+
 #### Technical Skills: Website Penetration Testing , Linux , OWASP , Python , Networking , API Security 
 
 ## Education
