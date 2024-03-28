@@ -1,13 +1,13 @@
 # Bug Bounty Hunter & Application Security Engineer
 
 [![Email](https://img.shields.io/badge/Email-sanjaiv80@gmail.com-blue)](mailto:{{sanjaiv80@gmail.com}})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayVenktesan-blue)]({{https://www.linkedin.com/in/sanjay-venkatesan-5a478220b/}})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjayVenktesan-blue)](https://www.linkedin.com/in/sanjay-venkatesan-5a478220b/)
 [![Medium](https://img.shields.io/badge/Medium-Sanju1-blue)]({{https://sanju1.medium.com}})
 
 #### Technical Skills: Website Penetration Testing , Linux , OWASP , Python , Networking , API Security 
 
 ## Education
-  - Bachelor of Technology(IT) with 8.5 CGPA | IFETCE (_April 2024_)								       
+- Bachelor of Technology(IT) with 8.5 CGPA | IFETCE (_April 2024_)								       
 
 ## Experience
 **Bug Hunter / Application Security Engineer @ Freelancer (_June 2022 - Present_)**
