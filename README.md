@@ -1,6 +1,6 @@
 # Bug Bounty Hunter & Application Security Engineer
 
-#### Technical Skills: Website Penetration Testing , OWASP , Python , Networking , API Security 
+#### Technical Skills: Website Penetration Testing , Linux , OWASP , Python , Networking , API Security 
 
 ## Education
   - Bachelor of Technology(IT) with 8.5 CGPA | IFETCE (_April 2024_)								       
