@@ -1,5 +1,70 @@
-title: Sanjay Venkatesan
-logo: /assets/img/head.jpeg
-description: Sanjay Venkatesan is a Enthusiastic final-year student skilled in web penetration testing and cybersecurity, recognized by industry giants for uncovering vulnerabilities and fortifying web application security. And Keen on Learning new things.
-show_downloads: true
+#title: Sanjay Venkatesan
+#logo: /assets/img/head.jpeg
+#description: Sanjay Venkatesan is a Enthusiastic final-year student skilled in web penetration testing and cybersecurity, recognized by industry giants for uncovering vulnerabilities and fortifying web application security. And Keen on Learning new things.
+#show_downloads: true
 theme: jekyll-theme-minimal
+
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "Sanjay Venkatesan"
+title_separator          : "-"
+name                     : &name "Sanjay Venkatesan"
+description              : &description "Sanjay Venkatesan is a Enthusiastic final-year student skilled in web penetration testing and cybersecurity, recognized by industry giants for uncovering vulnerabilities and fortifying web application security. And Keen on Learning new things."
+url                      : https://0xsanju.github.io/portfolio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "/assets/img/head.jpeg"
+  name             : "Sanjay Venkatesan"
+  pronouns         : # example: "she/her"  
+  bio              : "Sanjay Venkatesan is a Enthusiastic final-year student skilled in web penetration testing and cybersecurity, recognized by industry giants for uncovering vulnerabilities and fortifying web application security. And Keen on Learning new things."
+  location         : "Earth"
+  employer         : "IFETCE"
+  uri              : # URL
+  email            : "sanjaiv80@gmail.com" 
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory      : # URL
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "https://github.com/0xsanju/portfolio"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         :  "https://www.linkedin.com/in/sanjay-venkatesan-5a478220b/"
+  mastodon         : # URL
+  medium           : "https://sanju1.medium.com"
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
